@@ -1,2 +1,2 @@
-# Web-site-de-historia
- web site para ler e publicar histórias
+# website-publicacao-de-historia
+ Web site para usuarios lerem e publicarem suas histórias

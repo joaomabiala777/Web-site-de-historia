@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Web Site para ler e publicar histórias",
+  "keywords": [
+    "história",
+    "publicar",
+    "história",
+    "ler",
+    "história"
+  ],
+  "license": "ISC",
+  "author": "João Cumbo Mabiala & Valdir Mateus",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^7.8.2",
+    "nodemon": "^3.1.11"
+  }
+}
